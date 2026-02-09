@@ -1,0 +1,18 @@
+{
+  "id": "com.simplyterm.folders",
+  "name": "Session Folders",
+  "version": "1.0.0",
+  "api_version": "1.0.0",
+  "description": "Organize sessions into folders with hierarchical structure",
+  "author": "SimplyTerm",
+  "homepage": "https://github.com/simplyterm/simplyterm",
+  "permissions": [
+    "ui_sidebar",
+    "ui_context_menu",
+    "ui_notifications",
+    "ui_modals",
+    "fs_read",
+    "fs_write"
+  ],
+  "main": "index.js"
+}
