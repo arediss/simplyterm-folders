@@ -5,14 +5,19 @@
   "api_version": "1.0.0",
   "description": "Organize sessions into folders with hierarchical structure",
   "author": "SimplyTerm",
-  "homepage": "https://github.com/simplyterm/simplyterm",
+  "homepage": "https://github.com/arediss/simplyterm-folders",
+  "repository": "https://github.com/arediss/simplyterm-folders",
+  "license": "MIT",
+  "category": "productivity",
+  "keywords": ["folders", "organization", "hierarchy", "sessions"],
   "permissions": [
     "ui_sidebar",
     "ui_context_menu",
     "ui_notifications",
     "ui_modals",
     "fs_read",
-    "fs_write"
+    "fs_write",
+    "ui_home_panel"
   ],
   "main": "index.js"
 }
